@@ -69,7 +69,7 @@ export default function App() {
 
   return (
     <main style={{ fontFamily: "system-ui, sans-serif", maxWidth: 640, margin: "2rem auto", padding: "0 1rem" }}>
-      <h1>Moja apka</h1>
+      <h1>Moja aplikacja</h1>
 
       <section>
         <h2>Connected</h2>

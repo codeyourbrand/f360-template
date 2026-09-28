@@ -8,7 +8,7 @@ for a small web app built on the company's own data through `@founder360/sdk` â€
 ## Prerequisites
 
 - A founder360 company account.
-- A personal API key, minted from the panel's **Apki** page.
+- A personal API key, minted from the panel's **Aplikacje** page.
 
 ## Quick start
 
